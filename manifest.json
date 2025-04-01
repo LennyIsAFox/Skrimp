@@ -1,0 +1,9 @@
+{
+    "name": "Skrimp",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "It's just that skrimple!",
+    "dependencies": [
+        "tristanmcpherson-R2API-4.3.5"
+    ]
+}
