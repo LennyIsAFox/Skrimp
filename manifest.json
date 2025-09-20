@@ -1,9 +1,9 @@
 {
     "name": "Skrimp",
-    "version_number": "1.0.0",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/LennyIsAFox/Skrimp",
     "description": "It's just that skrimple!",
     "dependencies": [
-        "tristanmcpherson-R2API-4.3.5"
+        "RiskofThunder-R2API_Language-1.0.1"
     ]
 }
