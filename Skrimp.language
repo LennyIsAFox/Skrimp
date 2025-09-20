@@ -1,5 +1,6 @@
 {
 	"en": {
-	"ITEM_MISSILEVOID_NAME": "Plasma Skrimp", 
+	"ITEM_MISSILEVOID_NAME": "Plasma Skrimp",
+	"ITEM_MISSILEVOID_PICKUP": "You're telling me a Skrimp <style=clsVoid>Plasma'd</style> this <style=clsDamage>missile</style>?!?",
   }
 }
